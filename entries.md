@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Entries
 
-You can use the [editor on GitHub](https://github.com/garrysjh/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Day 1
+###### 11/5/2022 11:13PM 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I made an account on Github! Started this repository and learnt about the syntax for github, such as pull requests, commits, branches. Still not sure how to navigate branches but branches : editing a separate version of the repository / project that u can merge with the main branch without editing the original one. Rest are quite common sensical imo.
 
-### Markdown
+I also opened a github page which is where this blog is being hosted on, and simple Markdown. For the next few days, I intend on learning HTML and CSS so that I can move these entries to a nicer webpage, and eventually make a portfolio for these. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So, these blog entries are supposed to be daily entries, where I learn something new everyday so that I can make sure that I'm committed to learning useful skills.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garrysjh/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+See you tomorrow!
